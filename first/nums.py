@@ -10,7 +10,7 @@ def minus(a, b):
 
 def mul(a, b):
     return a*b
-
+ikokokok
 if __name__ == "__main__":
     print(plus(2, 5))
     print(minus(10, 5))
